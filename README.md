@@ -11,3 +11,7 @@ My Computer teacher, Mr. Ola, gave this as assignment in JSS3. He left before SS
 - Inter-bank transfer with
 - Change of Pin
 - Input validation - prevents negative withdrawal
+
+### How to Run
+```python
+python atm_simulator.py
