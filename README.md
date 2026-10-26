@@ -14,4 +14,4 @@ My Computer teacher, Mr. Ola, gave this as assignment in JSS3. He left before SS
 
 ### How to Run
 ```python
-python atm_simulator.py
+python atm.py
